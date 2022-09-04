@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "viQDapBV7ukx41nwAgcOcg3Gy0L+p6cxPS8ctQa58eY=",
+  "Hash": "GChWxeGFLg5M7im2ABwURIlxj1zUgK91EAk3u3ZadA0=",
   "Source": "CSharp-EmployeeCrud",
   "BasePath": "_content/CSharp-EmployeeCrud",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\wwwroot\\Images\\logo-bg.png",
+      "SourceId": "CSharp-EmployeeCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\wwwroot\\",
+      "BasePath": "_content/CSharp-EmployeeCrud",
+      "RelativePath": "Images/logo-bg.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\logo-bg.png"
+    },
+    {
+      "Identity": "C:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\wwwroot\\Images\\workwise-logo.png",
+      "SourceId": "CSharp-EmployeeCrud",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\wwwroot\\",
+      "BasePath": "_content/CSharp-EmployeeCrud",
+      "RelativePath": "Images/workwise-logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\workwise-logo.png"
     },
     {
       "Identity": "C:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\wwwroot\\js\\site.js",
