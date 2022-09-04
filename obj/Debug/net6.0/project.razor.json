@@ -16298,6 +16298,11 @@
   "RootNamespace": "CSharp_EmployeeCrud",
   "Documents": [
     {
+      "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\Employee\\Index.cshtml",
+      "TargetPath": "Views\\Employee\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -16313,8 +16318,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\Employee\\Edit.cshtml",
+      "TargetPath": "Views\\Employee\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\Employee\\Delete.cshtml",
+      "TargetPath": "Views\\Employee\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\Employee\\Details.cshtml",
+      "TargetPath": "Views\\Employee\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16325,6 +16345,11 @@
     {
       "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\Employee\\Create.cshtml",
+      "TargetPath": "Views\\Employee\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
