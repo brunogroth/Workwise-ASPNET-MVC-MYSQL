@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FP62fPhJfCuvFd5FufS9GV9UCSQYaAbvTUbtOIA/FLQdqq+NE7fNDfngjxc2mJ8wZ8ptzdZFIqSXEJm89bHcig==",
+  "dgSpecHash": "NythAxHmTVWERkUuFbUdZnCY+7NCDYW8qGXePeblZFnCjO9CnlUDmURLIZdvFMLI1dD3qXj34GmoJ4b5AUXu1A==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\CSharp-EmployeeCrud.csproj",
+  "projectFilePath": "C:\\workspace\\c-sharp-workspace\\Workwise-ASPNET-MVC-MYSQL\\CSharp-EmployeeCrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

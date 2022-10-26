@@ -10914,11 +10914,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\CSharp-EmployeeCrud.csproj",
+      "projectUniqueName": "C:\\workspace\\c-sharp-workspace\\Workwise-ASPNET-MVC-MYSQL\\CSharp-EmployeeCrud.csproj",
       "projectName": "CSharp-EmployeeCrud",
-      "projectPath": "C:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\CSharp-EmployeeCrud.csproj",
+      "projectPath": "C:\\workspace\\c-sharp-workspace\\Workwise-ASPNET-MVC-MYSQL\\CSharp-EmployeeCrud.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "C:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\obj\\",
+      "outputPath": "C:\\workspace\\c-sharp-workspace\\Workwise-ASPNET-MVC-MYSQL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\CSharp-EmployeeCrud.csproj",
+  "FilePath": "c:\\workspace\\c-sharp-workspace\\Workwise-ASPNET-MVC-MYSQL\\CSharp-EmployeeCrud.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,63 +16298,63 @@
   "RootNamespace": "CSharp_EmployeeCrud",
   "Documents": [
     {
-      "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\Employee\\Index.cshtml",
-      "TargetPath": "Views\\Employee\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\workspace\\c-sharp-workspace\\Workwise-ASPNET-MVC-MYSQL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\workspace\\c-sharp-workspace\\Workwise-ASPNET-MVC-MYSQL\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\Employee\\Edit.cshtml",
-      "TargetPath": "Views\\Employee\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\Employee\\Delete.cshtml",
+      "FilePath": "c:\\workspace\\c-sharp-workspace\\Workwise-ASPNET-MVC-MYSQL\\Views\\Employee\\Delete.cshtml",
       "TargetPath": "Views\\Employee\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\Employee\\Details.cshtml",
-      "TargetPath": "Views\\Employee\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\Employee\\Create.cshtml",
+      "FilePath": "c:\\workspace\\c-sharp-workspace\\Workwise-ASPNET-MVC-MYSQL\\Views\\Employee\\Create.cshtml",
       "TargetPath": "Views\\Employee\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\workspace\\c-sharp-workspace\\CSharp-EmployeeCrud\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\workspace\\c-sharp-workspace\\Workwise-ASPNET-MVC-MYSQL\\Views\\Employee\\Details.cshtml",
+      "TargetPath": "Views\\Employee\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\workspace\\c-sharp-workspace\\Workwise-ASPNET-MVC-MYSQL\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\workspace\\c-sharp-workspace\\Workwise-ASPNET-MVC-MYSQL\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\workspace\\c-sharp-workspace\\Workwise-ASPNET-MVC-MYSQL\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\workspace\\c-sharp-workspace\\Workwise-ASPNET-MVC-MYSQL\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\workspace\\c-sharp-workspace\\Workwise-ASPNET-MVC-MYSQL\\Views\\Employee\\Index.cshtml",
+      "TargetPath": "Views\\Employee\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\workspace\\c-sharp-workspace\\Workwise-ASPNET-MVC-MYSQL\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\workspace\\c-sharp-workspace\\Workwise-ASPNET-MVC-MYSQL\\Views\\Employee\\Edit.cshtml",
+      "TargetPath": "Views\\Employee\\Edit.cshtml",
       "FileKind": "mvc"
     }
   ],
