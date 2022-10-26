@@ -22,8 +22,7 @@ namespace CSharp_EmployeeCrud.Controllers
         // GET: Employee
         public async Task<IActionResult> Index()
         {
-              return _context.Employees != null ? 
-                          View(await _context.Employees.ToListAsync()) :
+              return _context.Employees != null ? View(await _context.Employees.ToListAsync()) :
                           Problem("Entity set 'EmployeeContext.Employees'  is null.");
         }
 

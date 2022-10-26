@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NythAxHmTVWERkUuFbUdZnCY+7NCDYW8qGXePeblZFnCjO9CnlUDmURLIZdvFMLI1dD3qXj34GmoJ4b5AUXu1A==",
+  "dgSpecHash": "jTXmN0KwhPOtQj/ghCXBuwRQttTR26xtx/+k3gkuqVd/E9hRIoiOnhNM2K2YHgux9gA4nbAbpYNv5IJQIHOpYQ==",
   "success": true,
   "projectFilePath": "C:\\workspace\\c-sharp-workspace\\Workwise-ASPNET-MVC-MYSQL\\CSharp-EmployeeCrud.csproj",
   "expectedPackageFiles": [
@@ -53,6 +53,7 @@
     "C:\\Users\\bruno\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0\\microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.extensions.logging.debug\\6.0.0\\microsoft.extensions.logging.debug.6.0.0.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\microsoft.identity.client\\4.21.1\\microsoft.identity.client.4.21.1.nupkg.sha512",

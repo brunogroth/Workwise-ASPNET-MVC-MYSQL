@@ -61,7 +61,7 @@
                 "build"
             ],
             "dockerBuild": {
-                "tag": "workwiseaspnetmvcmysql:latest",
+                "tag": "workwiseaspnetmvcmysql:5.0.29",
                 "dockerfile": "${workspaceFolder}/Dockerfile",
                 "context": "${workspaceFolder}",
                 "pull": true

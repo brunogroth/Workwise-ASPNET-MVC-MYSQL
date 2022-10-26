@@ -68,6 +68,10 @@
               "target": "Package",
               "version": "[6.0.8, )"
             },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration": {
               "target": "Package",
               "version": "[6.0.8, )"

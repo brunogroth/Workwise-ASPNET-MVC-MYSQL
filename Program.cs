@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using CSharp_EmployeeCrud.Data;
 
 var builder = WebApplication.CreateBuilder(args);
-var connectionString = "server=localhost;user=root;password=root;database=employee_csharp";
+var connectionString = "server=localhost;port=3307;user=root;password=root;database=employee_csharp";
 var serverVersion = new MySqlServerVersion(new Version(8, 0, 29));
 // Add services to the container.
 builder.Services.AddControllersWithViews();
