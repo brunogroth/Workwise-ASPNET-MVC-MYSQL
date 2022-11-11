@@ -4,8 +4,8 @@ EXPOSE 5255
 
 ENV ASPNETCORE_URLS=http://+:5255
 
-# Creates a non-root user with an explicit UID and adds permission to access the /app folder
-# For more info, please refer to https://aka.ms/vscode-docker-dotnet-configure-containers
+# Cria um usuário não root com um UID explícito e adiciona a permissão para acessar a pasta /app
+# a documentação está disponível em https://aka.ms/vscode-docker-dotnet-configure-containers
 RUN adduser -u 5678 --disabled-password --gecos "" appuser && chown -R appuser /app
 USER appuser
 
